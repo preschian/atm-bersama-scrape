@@ -1,0 +1,407 @@
+[
+	{
+		"nama": "Bank Aceh",
+		"kode": "116",
+		"layar": "BPD ACEH"
+	},
+	{
+		"nama": "Bank ANZ Indonesia",
+		"kode": "061",
+		"layar": "ANZ"
+	},
+	{
+		"nama": "Bank Artos Indonesia",
+		"kode": "542",
+		"layar": "B.ARTOS"
+	},
+	{
+		"nama": "Bank Bengkulu",
+		"kode": "133",
+		"layar": "BENGKULU"
+	},
+	{
+		"nama": "Bank BJB",
+		"kode": "110",
+		"layar": "BPDJABAR"
+	},
+	{
+		"nama": "Bank BNP",
+		"kode": "145",
+		"layar": "BNP"
+	},
+	{
+		"nama": "Bank BPD DIY",
+		"kode": "112",
+		"layar": "BPD DIY"
+	},
+	{
+		"nama": "Bank BPD Kaltim",
+		"kode": "124",
+		"layar": "BPD KALTIM"
+	},
+	{
+		"nama": "Bank BPD Sulteng",
+		"kode": "134",
+		"layar": "BSULTENG"
+	},
+	{
+		"nama": "Bank BRI Agro",
+		"kode": "494",
+		"layar": "ATM AGRO"
+	},
+	{
+		"nama": "Bank BTN",
+		"kode": "200",
+		"layar": "BANKBTN"
+	},
+	{
+		"nama": "Bank BTPN",
+		"kode": "213",
+		"layar": "BTPN"
+	},
+	{
+		"nama": "Bank Bukopin",
+		"kode": "441",
+		"layar": "BUKOPIN"
+	},
+	{
+		"nama": "Bank Capital",
+		"kode": "054",
+		"layar": "CAPITAL"
+	},
+	{
+		"nama": "Bank Commonwealth",
+		"kode": "950",
+		"layar": "COMMBANK"
+	},
+	{
+		"nama": "Bank Danamon",
+		"kode": "011",
+		"layar": "DANAMON"
+	},
+	{
+		"nama": "Bank DKI",
+		"kode": "111",
+		"layar": "DKI"
+	},
+	{
+		"nama": "Bank Ekonomi Raharja",
+		"kode": "087",
+		"layar": "EKONOMI"
+	},
+	{
+		"nama": "Bank Ganesha",
+		"kode": "161",
+		"layar": "GANESHA"
+	},
+	{
+		"nama": "Bank MNC Internasional",
+		"kode": "485",
+		"layar": "MNCBANK"
+	},
+	{
+		"nama": "Bank Ina Perdana",
+		"kode": "513",
+		"layar": "BANK INA"
+	},
+	{
+		"nama": "Bank Index Selindo",
+		"kode": "555",
+		"layar": "B.INDEX"
+	},
+	{
+		"nama": "Bank Jabar Banten Syariah",
+		"kode": "425",
+		"layar": "JABARSYA"
+	},
+	{
+		"nama": "Bank Jambi",
+		"kode": "115",
+		"layar": "JAMBI"
+	},
+	{
+		"nama": "Bank Jateng",
+		"kode": "113",
+		"layar": "JATENG"
+	},
+	{
+		"nama": "Bank Jatim",
+		"kode": "114",
+		"layar": "BANK JATIM"
+	},
+	{
+		"nama": "Bank Kalbar",
+		"kode": "123",
+		"layar": "BANK KALBAR"
+	},
+	{
+		"nama": "Bank Kalsel",
+		"kode": "122",
+		"layar": "KALSEL"
+	},
+	{
+		"nama": "Bank Kalteng",
+		"kode": "125",
+		"layar": "BKALTENG"
+	},
+	{
+		"nama": "Bank Kesejahteraan Ekonomi",
+		"kode": "535",
+		"layar": "BKE"
+	},
+	{
+		"nama": "Bank Lampung",
+		"kode": "121",
+		"layar": "LAMPUNG"
+	},
+	{
+		"nama": "Bank Maluku",
+		"kode": "131",
+		"layar": "ATMALUKU"
+	},
+	{
+		"nama": "Bank Mayapada Internasional",
+		"kode": "097",
+		"layar": "MAYAPADA"
+	},
+	{
+		"nama": "Bank Mayora",
+		"kode": "553",
+		"layar": "B MAYORA"
+	},
+	{
+		"nama": "Bank Mega",
+		"kode": "426",
+		"layar": "MEGA"
+	},
+	{
+		"nama": "Bank Mega Syariah",
+		"kode": "506",
+		"layar": "BSMI"
+	},
+	{
+		"nama": "Bank Mestika Dharma",
+		"kode": "151",
+		"layar": "MESTIKA"
+	},
+	{
+		"nama": "Bank Muamalat Indonesia Syariah",
+		"kode": "147",
+		"layar": "MUAMALAT"
+	},
+	{
+		"nama": "Bank Nagari",
+		"kode": "118",
+		"layar": "B.NAGARI"
+	},
+	{
+		"nama": "Bank NTB",
+		"kode": "128",
+		"layar": "BANK NTB"
+	},
+	{
+		"nama": "Bank NTT",
+		"kode": "130",
+		"layar": "BANK NTT"
+	},
+	{
+		"nama": "Bank OCBC NISP",
+		"kode": "028",
+		"layar": "NISP"
+	},
+	{
+		"nama": "Bank of China **",
+		"kode": "069",
+		"layar": "BCHINA"
+	},
+	{
+		"nama": "Bank of India Indonesia",
+		"kode": "146",
+		"layar": "SWADESI"
+	},
+	{
+		"nama": "Bank Papua",
+		"kode": "132",
+		"layar": "BPDPAPUA"
+	},
+	{
+		"nama": "Bank Pundi",
+		"kode": "558",
+		"layar": "EKSEKUTF"
+	},
+	{
+		"nama": "Bank QNB Kesawan",
+		"kode": "167",
+		"layar": "QNB K"
+	},
+	{
+		"nama": "Bank Riau Kepri",
+		"kode": "119",
+		"layar": "BANK RIAU"
+	},
+	{
+		"nama": "Bank Saudara",
+		"kode": "212",
+		"layar": "HS 1906"
+	},
+	{
+		"nama": "Bank Sinarmas",
+		"kode": "153",
+		"layar": "SINARMAS"
+	},
+	{
+		"nama": "Bank Sulselbar",
+		"kode": "126",
+		"layar": "BSULSEL"
+	},
+	{
+		"nama": "Bank Sultra",
+		"kode": "135",
+		"layar": "BSULTRA"
+	},
+	{
+		"nama": "Bank Sulut",
+		"kode": "127",
+		"layar": "BSULUT"
+	},
+	{
+		"nama": "Bank Sumsel Babel",
+		"kode": "120",
+		"layar": "BSUMSEL"
+	},
+	{
+		"nama": "Bank Sumut",
+		"kode": "117",
+		"layar": "BPDSUMUT"
+	},
+	{
+		"nama": "Bank Syariah Mandiri",
+		"kode": "451",
+		"layar": "BSM"
+	},
+	{
+		"nama": "Bank UOB Indonesia",
+		"kode": "023",
+		"layar": "BUANA"
+	},
+	{
+		"nama": "Bank Woori Indonesia",
+		"kode": "068",
+		"layar": "WOORI"
+	},
+	{
+		"nama": "BII Maybank",
+		"kode": "016",
+		"layar": "BII"
+	},
+	{
+		"nama": "BNI 46",
+		"kode": "009",
+		"layar": "BNI"
+	},
+	{
+		"nama": "Bank Bali",
+		"kode": "129",
+		"layar": "BPD BALI"
+	},
+	{
+		"nama": "BPR Eka Bumi Artha *",
+		"kode": "150",
+		"layar": "BPR EBA"
+	},
+	{
+		"nama": "BPR Karyajatnika Sadaya",
+		"kode": "688",
+		"layar": "BPR KS"
+	},
+	{
+		"nama": "BPR Semoga Jaya",
+		"kode": "558",
+		"layar": "BRR SJ"
+	},
+	{
+		"nama": "BPR Supra Artapersada *",
+		"kode": "135",
+		"layar": "BPR SA"
+	},
+	{
+		"nama": "BRI",
+		"kode": "002",
+		"layar": "BRI"
+	},
+	{
+		"nama": "BRI Syariah",
+		"kode": "422",
+		"layar": "BRIS"
+	},
+	{
+		"nama": "CIMB Niaga",
+		"kode": "022",
+		"layar": "NIAGA"
+	},
+	{
+		"nama": "Citibank",
+		"kode": "031",
+		"layar": "CITIBANK"
+	},
+	{
+		"nama": "DBS Bank",
+		"kode": "046",
+		"layar": "BANK DBS"
+	},
+	{
+		"nama": "HSBC",
+		"kode": "041",
+		"layar": "HSBC"
+	},
+	{
+		"nama": "Indosat (Dompetku)",
+		"kode": "789",
+		"layar": "ISATDMP"
+	},
+	{
+		"nama": "Mandiri",
+		"kode": "008",
+		"layar": "MANDIRI"
+	},
+	{
+		"nama": "Mutiara Bank",
+		"kode": "095",
+		"layar": "BMUTIARA"
+	},
+	{
+		"nama": "Nobu Bank",
+		"kode": "503",
+		"layar": "NOBUBANK"
+	},
+	{
+		"nama": "Panin Bank",
+		"kode": "019",
+		"layar": "PANIN"
+	},
+	{
+		"nama": "Panin Bank Syariah",
+		"kode": "130",
+		"layar": "PANINSYR"
+	},
+	{
+		"nama": "Permata Bank",
+		"kode": "013",
+		"layar": "PERMATA"
+	},
+	{
+		"nama": "Rabobank",
+		"kode": "089",
+		"layar": "RABOBANK"
+	},
+	{
+		"nama": "Standard Chartered Bank Indonesia",
+		"kode": "050",
+		"layar": "STANCHRT"
+	},
+	{
+		"nama": "Telkomsel * (T-Cash)",
+		"kode": "911",
+		"layar": "TSELCASH"
+	}
+]

@@ -1,0 +1,16 @@
+{
+  "name": "atm-bersama-scrape",
+  "version": "1.0.0",
+  "description": "get atm bersama code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Preschian Febryantara",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.79.0",
+    "write-json-file": "^2.0.0"
+  }
+}
